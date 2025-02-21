@@ -1,0 +1,34 @@
+{
+  "stocks": [
+    {
+      "companyName": "Company A",
+      "currentPrice": 100,
+      "stockChart": "url_to_chart_A",
+      "quantity": 0
+    },
+    {
+      "companyName": "Company B",
+      "currentPrice": 150,
+      "stockChart": "url_to_chart_B",
+      "quantity": 0
+    },
+    {
+      "companyName": "Company C",
+      "currentPrice": 200,
+      "stockChart": "url_to_chart_C",
+      "quantity": 0
+    },
+    {
+      "companyName": "Company D",
+      "currentPrice": 250,
+      "stockChart": "url_to_chart_D",
+      "quantity": 0
+    },
+    {
+      "companyName": "Company E",
+      "currentPrice": 300,
+      "stockChart": "url_to_chart_E",
+      "quantity": 0
+    }
+  ]
+}
